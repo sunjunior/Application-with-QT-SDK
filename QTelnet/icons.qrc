@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>app.png</file>
+        <file>splash.png</file>
+        <file>telnet.png</file>
+    </qresource>
+</RCC>

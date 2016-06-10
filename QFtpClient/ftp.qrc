@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/app.png</file>
+        <file>images/cdtoparent.png</file>
+        <file>images/close.png</file>
+        <file>images/contact.png</file>
+        <file>images/dir.png</file>
+        <file>images/file.png</file>
+        <file>images/maximum.png</file>
+        <file>images/menu.png</file>
+        <file>images/minimize.png</file>
+        <file>images/opendir.png</file>
+        <file>images/progressbar.png</file>
+        <file>images/restart.png</file>
+        <file>images/telnet.png</file>
+        <file>images/time.png</file>
+        <file>images/tray.png</file>
+        <file>images/traydark.png</file>
+    </qresource>
+    <qresource prefix="/qm">
+        <file>qt_zh_CN.qm</file>
+    </qresource>
+</RCC>

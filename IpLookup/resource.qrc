@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>splash.png</file>
+        <file>citylist</file>
+    </qresource>
+</RCC>

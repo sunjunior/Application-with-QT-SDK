@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>app.png</file>
+        <file>close.png</file>
+        <file>menu.png</file>
+        <file>tray.png</file>
+        <file>opendir.png</file>
+    </qresource>
+    <qresource prefix="/qm">
+        <file>qt_zh_CN.qm</file>
+    </qresource>
+</RCC>
