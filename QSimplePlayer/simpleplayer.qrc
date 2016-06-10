@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/SimplePlayer">
+        <file>Resources/background.png</file>
+        <file>Resources/播放按钮-主界面.png</file>
+        <file>Resources/播放按钮-主界面2.png</file>
+        <file>Resources/播放模式.png</file>
+        <file>Resources/播放模式2.png</file>
+        <file>Resources/关闭按钮.png</file>
+        <file>Resources/关闭按钮2.png</file>
+        <file>Resources/上一曲.png</file>
+        <file>Resources/上一曲2.png</file>
+        <file>Resources/缩小按钮.png</file>
+        <file>Resources/缩小按钮2.png</file>
+        <file>Resources/添加歌曲.png</file>
+        <file>Resources/添加歌曲2.png</file>
+        <file>Resources/下一曲.png</file>
+        <file>Resources/下一曲2.png</file>
+        <file>Resources/音量调节.png</file>
+        <file>Resources/音量调节2.png</file>
+        <file>Resources/暂停按钮-主界面.png</file>
+        <file>Resources/暂停按钮-主界面2.png</file>
+        <file>Resources/左上角logo按钮.png</file>
+        <file>Resources/左上角logo按钮2.png</file>
+        <file>Resources/about.png</file>
+        <file>Resources/close.png</file>
+        <file>Resources/logo.png</file>
+        <file>Resources/default_album.png</file>
+        <file>Resources/add_folder.png</file>
+        <file>Resources/add_song.png</file>
+        <file>Resources/remove_all_song.png</file>
+        <file>Resources/remove_song.png</file>
+        <file>Resources/list_loop.png</file>
+        <file>Resources/repeat_none.png</file>
+        <file>Resources/repeat_one.png</file>
+        <file>Resources/shuffle.png</file>
+    </qresource>
+</RCC>
