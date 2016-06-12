@@ -463,17 +463,17 @@ void QBatCmd::autoChangeEmailIni()
 
     QTextStream out(&file);
     out << "[SendSMTP]" << endl
-        <<  "Host=szsmtp06.zte.com.cn"  << endl
+        <<  "Host=szsmtp.zte.com.cn"  << endl
         <<  "Port=25" << endl
         <<  "Timeout=15" << endl
-        <<  "UserID=SunJun10145578" <<endl
-        <<  tr("Password=挐姈摏无") <<endl
+        <<  "UserID=sunjunior" <<endl
+        <<  tr("Password=123456") <<endl
         <<  "SaveLog=1"  << endl
         <<  tr("FromName=部门代码变更统计") << endl
         <<  "FromAddr=10.10.202.151" << endl
-        <<  "To=sun.jun37@zte.com.cn" << endl
+        <<  "To=sun.jun@zte.com.cn" << endl
         <<  "ReplyTo=" <<endl
-        <<  "cc=li.xiaowei@zte.com.cn" << endl
+        <<  "cc=myboss@zte.com.cn" << endl
         <<  "bcc=" << endl
         <<  "Subject=" + m_dateStartEdit->text() + tr("至") + m_dateFinishEdit->text() + tr("代码变更统计情况") << endl
         <<  "Body=1" << endl
