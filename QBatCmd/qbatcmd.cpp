@@ -471,11 +471,7 @@ void QBatCmd::autoChangeEmailIni()
         <<  "SaveLog=1"  << endl
         <<  tr("FromName=部门代码变更统计") << endl
         <<  "FromAddr=10.10.202.151" << endl
-        <<  "To=sun.jun37@zte.com.cn,Kuang.tianqi@zte.com.cn,hou.huihui@zte.com.cn,"
-        <<  "yang.yuanyong@zte.com.cn,Zuo.Yalong@zte.com.cn,"
-        <<  "yang.yuxi@zte.com.cn,wang.yuemei@zte.com.cn,zhang.yu8@zte.com.cn,liu.min10@zte.com.cn,"
-        <<  "tang.sicheng@zte.com.cn,gao.xuegang@zte.com.cn,wu.qing6@zte.com.cn,"
-        <<  "xi.zhijun@zte.com.cn,Wen.Taichuan@zte.com.cn,Zhao.Yuhai@zte.com.cn,liang.xiaoyan@zte.com.cn" << endl
+        <<  "To=sun.jun37@zte.com.cn" << endl
         <<  "ReplyTo=" <<endl
         <<  "cc=li.xiaowei@zte.com.cn" << endl
         <<  "bcc=" << endl
